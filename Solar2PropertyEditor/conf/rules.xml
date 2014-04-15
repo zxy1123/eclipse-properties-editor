@@ -1,0 +1,16 @@
+<ruels>
+	<rule>
+		<property key="key" value="sqlMapClient" />
+		<property key="rule"  value="sqlMapClient" />
+		<property key="textInfo"  value="sqlMapClient is used insideits value must be sqlMapClient" />
+		<property key="errorMsg"  value="sqlMapClient key must be sqlMapClient" />
+		<property key="require"  value="true" />
+	</rule>
+	<rule>
+		<property key="key"  value="data.source" />
+		<property key="rule"  value="rule" />
+		<property key="textInfo"  value="data source" />
+		<property key="errorMsg"  value="data source" />
+		<property key="require"  value="true" />
+	</rule>
+</ruels>
